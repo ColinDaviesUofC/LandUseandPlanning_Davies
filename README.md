@@ -68,4 +68,21 @@ Density_Housing: houses per square kilometer
 
 Median_Lotsize: median lot size of community (square meters)
 
+
+References: 
+
+City of Calgary. (2020). Municipal Development Plan (MDP) – 2020. The City of Calgary. https://www.calgary.ca/planning/municipal-development-plan.html
+
+Habibi, S., & Asadi, N. (2011). Causes, results and methods of controlling urban sprawl. Procedia Engineering, 21, 133–141. https://doi.org/10.1016/j.proeng.2011.11.1996 
+
+Im, H. N., & Choi, C. G. (2018). The hidden side of the entropy-based land-use mix index: Clarifying the relationship between pedestrian volume and land-use mix. Urban Studies, 56(9), 1865–1881. https://doi.org/10.1177/0042098018763319 
+
+Jaeger, J. A. G., Bertiller, R., Schwick, C., & Kienast, F. (2010). Suitability criteria for measures of urban sprawl. Ecological Indicators, 10(2), 397–406. https://doi.org/10.1016/j.ecolind.2009.07.007 
+
+Lowry, J. H., & Lowry, M. B. (2014). Comparing spatial metrics that quantify urban form. Computers, Environment and Urban Systems, 44, 59–67. https://doi.org/10.1016/j.compenvurbsys.2013.11.005 
+
+Manaugh, K., & Kreider, T. (2013). What is mixed use? presenting an interaction method for measuring land use mix. Journal of Transport and Land Use, 6(1), 63–72. https://doi.org/10.5198/jtlu.v6i1.291
+
+Steurer, M., & Bayr, C. (2020). Measuring urban sprawl using Land Use Data. Land Use Policy, 97, 104799. https://doi.org/10.1016/j.landusepol.2020.104799 
+
 Contains information licensed under the Open Government Licence – City of Calgary
