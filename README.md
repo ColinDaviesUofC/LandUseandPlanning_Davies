@@ -67,3 +67,5 @@ Buildings_Ratio: ratio of area of buildings to total community area
 Density_Housing: houses per square kilometer 
 
 Median_Lotsize: median lot size of community (square meters)
+
+Contains information licensed under the Open Government Licence – City of Calgary
